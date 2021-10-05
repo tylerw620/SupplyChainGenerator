@@ -1,0 +1,7 @@
+C:\Users\Tyler\source\repos\SupplyChainGenerator\SupplyChainGeneratorConsole\bin\Debug\SupplyChainGeneratorConsole.exe.config
+C:\Users\Tyler\source\repos\SupplyChainGenerator\SupplyChainGeneratorConsole\bin\Debug\SupplyChainGeneratorConsole.exe
+C:\Users\Tyler\source\repos\SupplyChainGenerator\SupplyChainGeneratorConsole\bin\Debug\SupplyChainGeneratorConsole.pdb
+C:\Users\Tyler\source\repos\SupplyChainGenerator\SupplyChainGeneratorConsole\obj\Debug\SupplyChainGeneratorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\SupplyChainGenerator\SupplyChainGeneratorConsole\obj\Debug\SupplyChainGeneratorConsole.exe
+C:\Users\Tyler\source\repos\SupplyChainGenerator\SupplyChainGeneratorConsole\obj\Debug\SupplyChainGeneratorConsole.pdb
+C:\Users\Tyler\source\repos\SupplyChainGenerator\SupplyChainGeneratorConsole\obj\Debug\SupplyChainGeneratorConsole.csproj.AssemblyReference.cache
