@@ -14,7 +14,8 @@ namespace SupplyChainGeneratorConsole
         {
             // http://www.webgraphviz.com/
 
-            string factory = "War Robot Factory";
+            string factory = "Steel Factory 1";
+            //string factory = "War Robot Factory";
 
             Clipboard.SetText(Factory.Factories.Where(x => x.Name == factory).FirstOrDefault().GenerateChain());
         }
